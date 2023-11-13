@@ -1,2 +1,2 @@
-# algorithms-kt
+# Algorithms
 Algorithms and Data Structures implemented in Kotlin
